@@ -9,7 +9,6 @@ function App() {
     e.preventDefault();
     const conversion = eur * 0.9;
     setGbp(conversion);
-
   }
 
   return (
